@@ -1,0 +1,10 @@
+1. git --version  = for the version number
+2. git config --help = to know about the commands
+3. cd directoryname = change directory
+4. git clone linkname = cloning 
+5. git status = for tracking the status unchanges, modified or staged.
+6. git commit -m "msg" = commiting the changes into the directory.
+7. git log = checking the history of the previous commits.
+8. git add . = adding all the unstaged files to the directory.
+9. git pull = updating the local repository.
+10. git push = updating the remote repository. 
